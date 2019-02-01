@@ -1,0 +1,40 @@
+#sidepanel {
+    float: left;
+    width: 200px;
+}
+
+#sidepanel h4 {
+
+    color: red;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+#shapes-container {
+    width: 600px;
+    height: 600px;
+    background-color: pink;
+    margin-right: 0px;
+}
+
+.square {
+    background-color: red;
+    position: absolute;
+}
+
+.rectangle {
+    background-color: green;
+    position: absolute;
+}
+
+.circle {
+    background-color: purple;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.triangle {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+}
